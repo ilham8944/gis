@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: poppins;
+}
+#header {
+  background-color: #f4623a;
+  padding: 10px;
+}
+.navbar .navbar-brand {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#navbarSupportedContent ul li a {
+  font-size: 20px;
+}
+#navbarSupportedContent ul li a:hover {
+  border-bottom: 2px solid white;
+}
+
+.active {
+  border-bottom: 2px solid white;
+}
+
+#cariRute {
+  position: absolute;
+  margin-top: 100px;
+}
